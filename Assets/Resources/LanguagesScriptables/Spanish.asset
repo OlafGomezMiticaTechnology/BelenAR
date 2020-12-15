@@ -1,0 +1,123 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ffd59f6ecddf444caf0e90ada471720, type: 3}
+  m_Name: Spanish
+  m_EditorClassIdentifier: 
+  AngelTexts:
+  - "En esa regi\xF3n acampaban unos pastores, que vigilaban por turno sus reba\xF1os
+    durante la noche.\nDe pronto, se les apareci\xF3 el Angel del Se\xF1or y la gloria
+    del Se\xF1or los envolvi\xF3 con su luz. Ellos sintieron un gran temor, pero
+    el Angel les dijo:\n \xABNo teman, porque les traigo una buena noticia, una gran
+    alegr\xEDa para todo el pueblo:\n Hoy, en la ciudad de David, les ha nacido un
+    Salvador, que es el Mes\xEDas, el Se\xF1or. \nY esto les servir\xE1 de se\xF1al:
+    encontrar\xE1n a un ni\xF1o reci\xE9n nacido envuelto en pa\xF1ales y acostado
+    en un pesebre\xBB.\nY junto con el Angel, apareci\xF3 de pronto una multitud
+    del ej\xE9rcito celestial, que alababa a Dios, diciendo:\n\xA1Gloria a Dios en
+    las alturas, y en la tierra, paz a los hombres amados por \xE9l\xBB."
+  - "Despu\xE9s que los \xE1ngeles volvieron al cielo, los pastores se dec\xEDan
+    unos a otros: \xABVayamos a Bel\xE9n, y veamos lo que ha sucedido y que el Se\xF1or
+    nos ha anunciado\xBB.\nFueron r\xE1pidamente y encontraron a Mar\xEDa, a Jos\xE9,
+    y al reci\xE9n nacido acostado en el pesebre."
+  - "Al verlo, contaron lo que hab\xEDan o\xEDdo decir sobre este ni\xF1o, y todos
+    los que los escuchaban quedaron admirados de que dec\xEDan los pastores."
+  - "BIBLIA / Nuevo Testamento / EVANGELIO SEGUN SAN LUCAS / Cap\xEDtulo 2, 8 - 18"
+  ReyesTexts:
+  - "Cuando naci\xF3 Jes\xFAs, en Bel\xE9n de Judea, bajo el reinado de Herodes,
+    unos magos de Oriente se presentaron en Jerusal\xE9n y preguntaron: \xAB\xBFD\xF3nde
+    est\xE1 el rey de los jud\xEDos que acaba de nacer? Porque vimos su estrella
+    en Oriente y hemos venido a adorarlo\xBB.\nAl enterarse, el rey Herodes qued\xF3
+    desconcertado y con \xE9l toda Jerusal\xE9n. Entonces reuni\xF3 a todos los sumos
+    sacerdotes y a los escribas del pueblo, para preguntarles en qu\xE9 lugar deb\xEDa
+    nacer el Mes\xEDas.\n\xABEn Bel\xE9n de Judea, \u2013le respondieron\u2013, porque
+    as\xED est\xE1 escrito por el Profeta:\n\"Y t\xFA, Bel\xE9n, tierra de Jud\xE1,
+    ciertamente no eres la menor entre las principales ciudades de Jud\xE1, porque
+    de ti surgir\xE1 un jefe que ser\xE1 el Pastor de mi pueblo, Israel\""
+  - "Herodes mand\xF3 llamar secretamente a los magos y despu\xE9s de averiguar con
+    precisi\xF3n la fecha en que hab\xEDa aparecido la estrella, los envi\xF3 a Bel\xE9n,
+    dici\xE9ndoles: \xABVayan e inf\xF3rmense cuidadosamente acerca del ni\xF1o,
+    y cuando lo hayan encontrado, av\xEDsenme para que yo tambi\xE9n vaya a rendirle
+    homenaje\xBB.\nDespu\xE9s de o\xEDr al rey, ellos partieron. La estrella que
+    hab\xEDan visto en Oriente los preced\xEDa, hasta que se detuvo en el lugar donde
+    estaba el ni\xF1o.\nCuando vieron la estrella se llenaron de alegr\xEDa, y al
+    entrar en la casa, encontraron al ni\xF1o con Mar\xEDa, su madre, y postr\xE1ndose,
+    le rindieron homenaje.Luego, abriendo sus cofres, le ofrecieron dones, oro, incienso
+    y mirra."
+  - "Y como recibieron en sue\xF1os la advertencia de no regresar al palacio de Herodes,
+    volvieron a su tierra por otro camino.\n BIBLIA / Nuevo Testamento / EVANGELIO
+    SEGUN SAN MATEO / Cap\xEDtulo 2, 1 - 12"
+  StationTexts:
+  - "Estaci\xF3n Internacional de Canfranc (Huesca)."
+  - Inaugurada el 18 de julio de 1928.
+  PicoTexts:
+  - "Pico del \xC1guila,\n 1 972 metros de altitud."
+  - "Valle de Canfranc o del Arag\xF3n, sobre el peque\xF1o valle de Rioseta"
+  famText: "En aquella \xE9poca apareci\xF3 un decreto del emperador Augusto, ordenando
+    que se realizara un censo en todo el mundo.\nEste primer censo tuvo lugar cuando
+    Quirino gobernaba la Siria.\nY cada uno iba a inscribirse a su ciudad de origen.\nJos\xE9,
+    que pertenec\xEDa a la familia de David, sali\xF3 de Nazaret, ciudad de Galilea,
+    y se dirigi\xF3 a Bel\xE9n de Judea, la ciudad de David, para inscribirse con
+    Mar\xEDa, su esposa, que estaba embarazada.\nMientras se encontraban en Bel\xE9n,
+    le lleg\xF3 el tiempo de ser madre; y Mar\xEDa dio a luz a su Hijo primog\xE9nito,
+    lo envolvi\xF3 en pa\xF1ales y lo acost\xF3 en un pesebre, porque no hab\xEDa
+    lugar para ellos en el albergue.\n\nBIBLIA / Nuevo Testamento / EVANGELIO SEGUN
+    SAN LUCAS / Cap\xEDtulo 2, 1 - 7"
+  tunelText: "\nValle de Canfranc o del Arag\xF3n (Huesca).\n\n El t\xFAnel se empez\xF3
+    a construir el a\xF1o 1908 y las obras duraron hasta el a\xF1o 1914.\n\n Con
+    una longitud de 7 874 m une Espa\xF1a con Francia."
+  ReyesTextsFullScreen:
+  - "Cuando naci\xF3 Jes\xFAs, en Bel\xE9n de Judea, bajo el reinado de Herodes,
+    unos magos de Oriente se presentaron en Jerusal\xE9n y preguntaron: \xAB\xBFD\xF3nde
+    est\xE1 el rey de los jud\xEDos que acaba de nacer? Porque vimos su estrella
+    en Oriente y hemos venido a adorarlo\xBB.\nAl enterarse, el rey Herodes qued\xF3
+    desconcertado y con \xE9l toda Jerusal\xE9n. Entonces reuni\xF3 a todos los sumos
+    sacerdotes y a los escribas del pueblo, para preguntarles en qu\xE9 lugar deb\xEDa
+    nacer el Mes\xEDas.\n\xABEn Bel\xE9n de Judea, \u2013le respondieron\u2013, porque
+    as\xED est\xE1 escrito por el Profeta:\n\"Y t\xFA, Bel\xE9n, tierra de Jud\xE1,
+    ciertamente no eres la menor entre las principales ciudades de Jud\xE1, porque
+    de ti surgir\xE1 un jefe que ser\xE1 el Pastor de mi pueblo, Israel\""
+  - "Herodes mand\xF3 llamar secretamente a los magos y despu\xE9s de averiguar con
+    precisi\xF3n la fecha en que hab\xEDa aparecido la estrella, los envi\xF3 a Bel\xE9n,
+    dici\xE9ndoles: \xABVayan e inf\xF3rmense cuidadosamente acerca del ni\xF1o,
+    y cuando lo hayan encontrado, av\xEDsenme para que yo tambi\xE9n vaya a rendirle
+    homenaje\xBB.\nDespu\xE9s de o\xEDr al rey, ellos partieron. La estrella que
+    hab\xEDan visto en Oriente los preced\xEDa, hasta que se detuvo en el lugar donde
+    estaba el ni\xF1o.\nCuando vieron la estrella se llenaron de alegr\xEDa, y al
+    entrar en la casa, encontraron al ni\xF1o con Mar\xEDa, su madre, y postr\xE1ndose,
+    le rindieron homenaje.Luego, abriendo sus cofres, le ofrecieron dones, oro, incienso
+    y mirra.Y como recibieron en sue\xF1os la advertencia de no regresar al palacio
+    de Herodes, volvieron a su tierra por otro camino.\n"
+  - "BIBLIA / Nuevo Testamento / EVANGELIO SEGUN SAN MATEO / Cap\xEDtulo 2, 1 - 12"
+  StationTextFullScreen: "Estaci\xF3n Internacional de Canfranc (Huesca).\n Inaugurada
+    el 18 de julio de 1928."
+  PicoTextFullScreen: "Pico del \xC1guila,\n 1 972 metros de altitud\n Valle de Canfranc
+    o del Arag\xF3n, sobre el peque\xF1o valle de Rioseta."
+  FamTextsFullScreen:
+  - "En aquella \xE9poca apareci\xF3 un decreto del emperador Augusto, ordenando
+    que se realizara un censo en todo el mundo.\nEste primer censo tuvo lugar cuando
+    Quirino gobernaba la Siria.\nY cada uno iba a inscribirse a su ciudad de origen.\nJos\xE9,
+    que pertenec\xEDa a la familia de David, sali\xF3 de Nazaret, ciudad de Galilea,
+    y se dirigi\xF3 a Bel\xE9n de Judea, la ciudad de David, para inscribirse con
+    Mar\xEDa, su esposa, que estaba embarazada.\nMientras se encontraban en Bel\xE9n,
+    le lleg\xF3 el tiempo de ser madre; y Mar\xEDa dio a luz a su Hijo primog\xE9nito,
+    lo envolvi\xF3 en pa\xF1ales y lo acost\xF3 en un pesebre, porque no hab\xEDa
+    lugar para ellos en el albergue.\n"
+  - "BIBLIA / Nuevo Testamento / EVANGELIO SEGUN SAN LUCAS / Cap\xEDtulo 2, 1 - 7"
+  famTag: Sagrada Familia
+  reyesTag: Reyes Magos y Estrella
+  angelTag: "\xC1ngel anunciador y pastores"
+  stationTag: "Estaci\xF3n Internacional de Canfranc"
+  tunelTag: "T\xFAnel ferroviario de Somport"
+  picoTag: "Pico del \xC1guila"
+  experienceTag: 
+  belenExperienceTag: 
+  cardExperienceTag: 
+  galleryTag: "Galer\xEDa de fotos"

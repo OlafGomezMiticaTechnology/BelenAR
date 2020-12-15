@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ffd59f6ecddf444caf0e90ada471720, type: 3}
+  m_Name: German
+  m_EditorClassIdentifier: 
+  AngelTexts:
+  - "Und es waren Hirten in derselben Gegend auf dem Felde bei den H\xFCrden, die
+    h\xFCteten des Nachts ihre Herde. Und siehe, des HERRN Engel trat zu ihnen, und
+    die Klarheit des HERRN leuchtete um sie; und sie f\xFCrchteten sich sehr. Und
+    der Engel sprach zu ihnen: F\xFCrchtet euch nicht!siehe, ich verk\xFCndige euch
+    gro\xDFe Freude, die allem Volk widerfahren wird; denn euch ist heute der Heiland
+    geboren, welcher ist Christus, der HERR, in der Stadt Davids.\nUnd das habt zum
+    Zeichen: ihr werdet finden das Kind in Windeln gewickelt und in einer Krippe
+    liegen.\nUnd alsbald war da bei dem Engel die Menge der himmlischen Heerscharen,
+    die lobten Gott und Ehre sei Gott in der H\xF6he und Frieden auf Erden und den
+    Menschen ein Wohlgefallen"
+  - " Und da die Engel von ihnen gen Himmel fuhren, sprachen die Hirten untereinander:
+    La\xDFt uns nun gehen gen Bethlehem und die Geschichte sehen, die da geschehen
+    ist, die uns der HERR kundgetan hat.\nUnd sie kamen eilend und fanden beide,
+    Maria und Joseph, dazu das Kind in der Krippe liegen."
+  - Da sie es aber gesehen hatten, breiteten sie das Wort aus, welches zu ihnen von
+    diesem Kinde gesagt war. Und alle, vor die es kam, wunderten sich der Rede, die
+    ihnen die Hirten gesagt hatten.
+  - DIE BIBEL / Die Evangelien / LUKAS / Kapitel 2, 8 - 18
+  ReyesTexts:
+  - " Da Jesus geboren war zu Bethlehem im j\xFCdischen Lande, zur Zeit des K\xF6nigs
+    Herodes, siehe, da kamen die Weisen vom Morgenland nach Jerusalem und sprachen:
+    Wo ist der neugeborene K\xF6nig der Juden? Wir haben seinen Stern gesehen im
+    Morgenland und sind gekommen, ihn anzubeten.Da das der K\xF6nig Herodes h\xF6rte,
+    erschrak er und mit ihm das ganze Jerusalem.\nUnd lie\xDF versammeln alle Hohenpriester
+    und Schriftgelehrten unter dem Volk und erforschte von ihnen, wo Christus sollte
+    geboren werden.\nUnd sie sagten ihm: Zu Bethlehem im j\xFCdischen Lande; denn
+    also steht geschrieben durch den Propheten:\n\"Und du Bethlehem im j\xFCdischen
+    Lande bist mitnichten die kleinste unter den F\xFCrsten Juda's; denn aus dir
+    soll mir kommen der Herzog, der \xFCber mein Volk Israel ein HERR sei.\""
+  - "Da berief Herodes die Weisen heimlich und erlernte mit Flei\xDF von ihnen, wann
+    der Stern erschienen w\xE4re, und wies sie gen Bethlehem und sprach: Ziehet hin
+    und forschet flei\xDFig nach dem Kindlein; wenn ihr's findet, so sagt mir's wieder,
+    da\xDF ich auch komme und es anbete.Als sie nun den K\xF6nig geh\xF6rt hatten,
+    zogen sie hin.Und siehe, der Stern, den sie im Morgenland gesehen hatten, ging
+    vor ihnen hin, bis da\xDF er kam und stand oben \xFCber, da das Kindlein war.\nDa
+    sie den Stern sahen, wurden sie hoch erfreut und gingen in das Haus und fanden
+    das Kindlein mit Maria, seiner Mutter, und fielen nieder und beteten es an und
+    taten ihre Sch\xE4tze auf und schenkten ihm Gold, Weihrauch und Myrrhe."
+  - "Und Gott befahl ihnen im Traum, da\xDF sie sich nicht sollten wieder zu Herodes
+    lenken; und sie zogen durch einen anderen Weg wieder in ihr Land.\nDIE BIBEL
+    / Die Evangelien / MATTH\xC4US / Kapitel 2, 1 - 12"
+  StationTexts:
+  - Canfranc International Bahnhof (Huesca, Spanien).
+  - "Er\xF6ffnet am 18. Juli 1928."
+  PicoTexts:
+  - "Pico del \xC1guila,\n 1.972 Meter hoch."
+  - "Canfranc- oder Arag\xF3n-Tal im kleinen Rioseta-Tal."
+  famText: "Es begab sich aber zu der Zeit, da\xDF ein Gebot von dem Kaiser Augustus
+    ausging, da\xDF alle Welt gesch\xE4tzt w\xFCrde.\nUnd diese Sch\xE4tzung war
+    die allererste und geschah zu der Zeit, da Cyrenius Landpfleger von Syrien war.\nUnd
+    jedermann ging, da\xDF er sich sch\xE4tzen lie\xDFe, ein jeglicher in seine Stadt.\nDa
+    machte sich auch auf Joseph aus Galil\xE4a, aus der Stadt Nazareth, in das j\xFCdische
+    Land zur Stadt Davids, die da hei\xDFt Bethlehem, darum da\xDF er von dem Hause
+    und Geschlechte Davids war, auf da\xDF er sich sch\xE4tzen lie\xDFe mit Maria,
+    seinem vertrauten Weibe, die ward schwanger.\nUnd als sie daselbst waren, kam
+    die Zeit, da sie geb\xE4ren sollte.\nUnd sie gebar ihren ersten Sohn und wickelte
+    ihn in Windeln und legte ihn in eine Krippe; denn sie hatten sonst keinen Raum
+    in der Herberge.\n\nDIE BIBEL / Die Evangelien / LUKAS / Kapitel 2, 1 - 7"
+  tunelText: "\nCanfranc oder Arag\xF3n-Tal (Huesca, SPANIEN).\n\n Der Bau des Tunnels
+    begann 1908 und dauerte bis 1914.\n\n Mit einer L\xE4nge von 7.874 m verbindet
+    Spanien und Frankreich."
+  ReyesTextsFullScreen:
+  - "Da Jesus geboren war zu Bethlehem im j\xFCdischen Lande, zur Zeit des K\xF6nigs
+    Herodes, siehe, da kamen die Weisen vom Morgenland nach Jerusalem und sprachen:
+    Wo ist der neugeborene K\xF6nig der Juden? Wir haben seinen Stern gesehen im
+    Morgenland und sind gekommen, ihn anzubeten.Da das der K\xF6nig Herodes h\xF6rte,
+    erschrak er und mit ihm das ganze Jerusalem.\nUnd lie\xDF versammeln alle Hohenpriester
+    und Schriftgelehrten unter dem Volk und erforschte von ihnen, wo Christus sollte
+    geboren werden.\nUnd sie sagten ihm: Zu Bethlehem im j\xFCdischen Lande; denn
+    also steht geschrieben durch den Propheten:\n\"Und du Bethlehem im j\xFCdischen
+    Lande bist mitnichten die kleinste unter den F\xFCrsten Juda's; denn aus dir
+    soll mir kommen der Herzog, der \xFCber mein Volk Israel ein HERR sei.\""
+  - "Da berief Herodes die Weisen heimlich und erlernte mit Flei\xDF von ihnen, wann
+    der Stern erschienen w\xE4re, und wies sie gen Bethlehem und sprach: Ziehet hin
+    und forschet flei\xDFig nach dem Kindlein; wenn ihr's findet, so sagt mir's wieder,
+    da\xDF ich auch komme und es anbete.Als sie nun den K\xF6nig geh\xF6rt hatten,
+    zogen sie hin.Und siehe, der Stern, den sie im Morgenland gesehen hatten, ging
+    vor ihnen hin, bis da\xDF er kam und stand oben \xFCber, da das Kindlein war.\nDa
+    sie den Stern sahen, wurden sie hoch erfreut und gingen in das Haus und fanden
+    das Kindlein mit Maria, seiner Mutter, und fielen nieder und beteten es an und
+    taten ihre Sch\xE4tze auf und schenkten ihm Gold, Weihrauch und Myrrhe.Und Gott
+    befahl ihnen im Traum, da\xDF sie sich nicht sollten wieder zu Herodes lenken;
+    und sie zogen durch einen anderen Weg wieder in ihr Land.\n"
+  - "DIE BIBEL / Die Evangelien / MATTH\xC4US / Kapitel 2, 1 - 12"
+  StationTextFullScreen: "Canfranc International Bahnhof (Huesca, Spanien). \n  Er\xF6ffnet
+    am 18. Juli 1928."
+  PicoTextFullScreen: "Pico del \xC1guila,\n 1.972 Meter hoch. \n Canfranc- oder
+    Arag\xF3n-Tal im kleinen Rioseta-Tal."
+  FamTextsFullScreen:
+  - "Es begab sich aber zu der Zeit, da\xDF ein Gebot von dem Kaiser Augustus ausging,
+    da\xDF alle Welt gesch\xE4tzt w\xFCrde.\nUnd diese Sch\xE4tzung war die allererste
+    und geschah zu der Zeit, da Cyrenius Landpfleger von Syrien war.\nUnd jedermann
+    ging, da\xDF er sich sch\xE4tzen lie\xDFe, ein jeglicher in seine Stadt.\nDa
+    machte sich auch auf Joseph aus Galil\xE4a, aus der Stadt Nazareth, in das j\xFCdische
+    Land zur Stadt Davids, die da hei\xDFt Bethlehem, darum da\xDF er von dem Hause
+    und Geschlechte Davids war, auf da\xDF er sich sch\xE4tzen lie\xDFe mit Maria,
+    seinem vertrauten Weibe, die ward schwanger.\nUnd als sie daselbst waren, kam
+    die Zeit, da sie geb\xE4ren sollte.\nUnd sie gebar ihren ersten Sohn und wickelte
+    ihn in Windeln und legte ihn in eine Krippe; denn sie hatten sonst keinen Raum
+    in der Herberge.\n"
+  - DIE BIBEL / Die Evangelien / LUKAS / Kapitel 2, 1 - 7
+  famTag: Heilige Familie
+  reyesTag: "Drei K\xF6nige und Stern"
+  angelTag: "Ank\xFCndigung Engel und Hirten"
+  stationTag: Canfranc International Bahnhof
+  tunelTag: Somport Eisenbahntunnel.
+  picoTag: "Pico del \xC1guila"
+  experienceTag: 
+  belenExperienceTag: 
+  cardExperienceTag: 
+  galleryTag: Fotogallerien

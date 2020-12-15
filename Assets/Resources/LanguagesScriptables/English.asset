@@ -1,0 +1,152 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2ffd59f6ecddf444caf0e90ada471720, type: 3}
+  m_Name: English
+  m_EditorClassIdentifier: 
+  AngelTexts:
+  - "Now there were shepherds in that region living in the fields and keeping the
+    night watch over their flock.\nThe angel of the Lord appeared to them and the
+    glory of the Lord shone around them, and they were struck with great fear.\nThe
+    angel said to them, \"Do not be afraid; for behold, I proclaim to you good news
+    of great joy that will be for all the people. \nFor today in the city of David
+    a savior has been born for you who is Messiah and Lord.\nAnd this will be a sign
+    for you: you will find an infant wrapped in swaddling clothes and lying in a
+    manger.\"And suddenly there was a multitude of the heavenly host with the angel,
+    praising God and saying:\n\"Glory to God in the highest and on earth peace to
+    those on whom his favor rests.\""
+  - "When the angels went away from them to heaven, the shepherds said to one another,
+    \"Let us go, then, to Bethlehem to see this thing that has taken place, which
+    the Lord has made known to us.\" \nSo they went in haste and found Mary and Joseph,
+    and the infant lying in the manger."
+  - When they saw this, they made known the message that had been told them about
+    this child. All who heard it were amazed by what had been told them by the shepherds.
+  - BIBLE / The Gospels / LUKE / Chapter 2, 8 - 18
+  ReyesTexts:
+  - 'When Jesus was born in Bethlehem of Judea, in the days of King Herod, behold,
+    magi from the east arrived in Jerusalem, saying, "Where is the newborn king of
+    the Jews? We saw his star at its rising and have come to do him homage."When
+    King Herod heard this, he was greatly troubled, and all Jerusalem with him. Assembling
+    all the chief priests and the scribes of the people, he inquired of them where
+    the Messiah was to be born. They said to him,
+
+    In Bethlehem of Judea, for
+    thus it has been written through the prophet:
+
+    "And you, Bethlehem, land
+    of Judah, are by no means least among the rulers of Judah; since from you shall
+    come a ruler, who is to shepherd my people Israel."'
+  - 'He sent them to Bethlehem and said, "Go and search diligently for the child.
+    When you have found him, bring me word, that I too may go and do him homage."After
+    their audience with the king they set out. And behold, the star that they had
+    seen at its rising preceded them, until it came and stopped over the place where
+    the child was.
+
+    They were overjoyed at seeing the star, and on entering the
+    house they saw the child with Mary his mother.They prostrated themselves and
+    did him homage.Then they opened their treasures and offered him gifts of gold,
+    frankincense, and myrrh.'
+  - "And having been warned in a dream not to return to Herod, they departed for
+    their country by another way.\n BIBLE / The Gospels / MATTHEW / Chapter 2, 1
+    - 12"
+  StationTexts:
+  - Canfranc International Station (Huesca, SPAIN).
+  - Opened on July 18, 1928.
+  PicoTexts:
+  - "Pico del \xC1guila,\n 1,972 meters high."
+  - "Canfranc or Arag\xF3n Valley, on the small Rioseta Valley"
+  famText: 'In those days a decree went out from Caesar Augustus 2 that the whole
+    world should be enrolled.
+
+    This was the first enrollment, when Quirinius
+    was governor of Syria.
+
+    So all went to be enrolled, each to his own town.
+
+    And
+    Joseph too went up from Galilee from the town of Nazareth to Judea, to the city
+    of David that is called Bethlehem, because he was of the house and family of
+    David, to be enrolled with Mary, his betrothed, who was with child.
+
+    While
+    they were there, the time came for her to have her child,and she gave birth to
+    her firstborn son. She wrapped him in swaddling clothes and laid him in a manger,
+    because there was no room for them in the inn.
+
+
+    BIBLE / The Gospels / LUKE
+    / Chapter 2, 1 - 7'
+  tunelText: "\nCanfranc or Arag\xF3n Valley (Huesca, SPAIN).\n\n The tunnel began
+    to be built in 1908 and the works lasted until 1914.\n\n With a length of 7,874
+    m, it joins together Spain and France."
+  ReyesTextsFullScreen:
+  - 'When Jesus was born in Bethlehem of Judea, in the days of King Herod, behold,
+    magi from the east arrived in Jerusalem, saying, "Where is the newborn king of
+    the Jews? We saw his star at its rising and have come to do him homage."When
+    King Herod heard this, he was greatly troubled, and all Jerusalem with him. Assembling
+    all the chief priests and the scribes of the people, he inquired of them where
+    the Messiah was to be born. They said to him,
+
+    In Bethlehem of Judea, for
+    thus it has been written through the prophet:
+
+    "And you, Bethlehem, land
+    of Judah, are by no means least among the rulers of Judah; since from you shall
+    come a ruler, who is to shepherd my people Israel."'
+  - 'He sent them to Bethlehem and said, "Go and search diligently for the child.
+    When you have found him, bring me word, that I too may go and do him homage."After
+    their audience with the king they set out. And behold, the star that they had
+    seen at its rising preceded them, until it came and stopped over the place where
+    the child was.
+
+    They were overjoyed at seeing the star, and on entering the
+    house they saw the child with Mary his mother.They prostrated themselves and
+    did him homage.Then they opened their treasures and offered him gifts of gold,
+    frankincense, and myrrh.And having been warned in a dream not to return to Herod,
+    they departed for their country by another way.
+
+'
+  - BIBLE / The Gospels / MATTHEW / Chapter 2, 1 - 12
+  StationTextFullScreen: "Canfranc International Station(Huesca, SPAIN).\n Opened
+    on July 18, 1928."
+  PicoTextFullScreen: "Pico del \xC1guila,\n 1,972 meters high. \n Canfranc or Arag\xF3n
+    Valley, on the small Rioseta Valley"
+  FamTextsFullScreen:
+  - 'In those days a decree went out from Caesar Augustus 2 that the whole world
+    should be enrolled.
+
+    This was the first enrollment, when Quirinius was governor
+    of Syria.
+
+    So all went to be enrolled, each to his own town.
+
+    And Joseph
+    too went up from Galilee from the town of Nazareth to Judea, to the city of David
+    that is called Bethlehem, because he was of the house and family of David, to
+    be enrolled with Mary, his betrothed, who was with child.
+
+    While they were
+    there, the time came for her to have her child,and she gave birth to her firstborn
+    son. She wrapped him in swaddling clothes and laid him in a manger, because there
+    was no room for them in the inn.
+
+'
+  - BIBLE / The Gospels / LUKE / Chapter 2, 1 - 7
+  famTag: Holy Family
+  reyesTag: Three Kings and star
+  angelTag: Announcing angel and shepherds
+  stationTag: Canfranc International Station
+  tunelTag: Somport railway tunnel.
+  picoTag: "Pico del \xC1guila"
+  experienceTag: 
+  belenExperienceTag: 
+  cardExperienceTag: 
+  galleryTag: Photo gallery
