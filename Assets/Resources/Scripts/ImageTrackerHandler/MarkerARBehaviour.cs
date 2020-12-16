@@ -35,7 +35,7 @@ public class MarkerARBehaviour : MonoBehaviour
 
     private void OnMarkerFounded()
     {
-       // easyGO.SetActive(false);
+        easyGO.SetActive(false);
         canvasGO.SetActive(true);
         BeginAugmentation?.Invoke();
     }
