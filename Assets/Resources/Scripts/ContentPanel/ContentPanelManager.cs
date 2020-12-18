@@ -16,6 +16,7 @@ public class ContentPanelManager : MonoBehaviour
     int panelIndex;
     private void OnEnable()
     {
+        
         LanguageController.SendTranslation += AROptionsController_SendTranslation;
         OptionButtonManager.ChangeActivePanel += OptionButtonManager_ChangeActivePanel;
         OptionButtonManager.ChangeImageContainer += OptionButtonManager_ChangeImageContainer;
@@ -32,6 +33,7 @@ public class ContentPanelManager : MonoBehaviour
 
     private void AROptionsController_SendTranslation(object sender, EventArgs e)
     {
+
         if (loadedSC == null)
         {
             var _data = (TextData)sender;

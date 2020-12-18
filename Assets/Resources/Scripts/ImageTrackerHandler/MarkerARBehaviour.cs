@@ -20,11 +20,11 @@ public class MarkerARBehaviour : MonoBehaviour
     private void Awake()
     {
         imageTargetController = GetComponent<ImageTargetController>();
-        LoadLanguage?.Invoke();
     }
 
     private void OnEnable()
     {
+        
         imageTargetController.TargetFound += OnMarkerFounded;
     }
 
@@ -35,6 +35,7 @@ public class MarkerARBehaviour : MonoBehaviour
 
     private void OnMarkerFounded()
     {
+        LoadLanguage?.Invoke();
         easyGO.SetActive(false);
         canvasGO.SetActive(true);
         BeginAugmentation?.Invoke();

@@ -127,7 +127,8 @@ PlayerSettings:
     16:9: 1
     Others: 1
   bundleVersion: 4.1.1
-  preloadedAssets: []
+  preloadedAssets:
+  - {fileID: 8064063694049999854, guid: a3bbedd25798a1d4182b52484ad05970, type: 2}
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -170,7 +171,7 @@ PlayerSettings:
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
   applicationIdentifier:
-    Android: com.miticatechnology.BelenAR
+    Android: com.Mitica.Belenstadler
     iPhone: com.Mitica.Belenstadler
   buildNumber: {}
   AndroidBundleVersionCode: 1
@@ -250,7 +251,7 @@ PlayerSettings:
   AndroidTargetArchitectures: 2
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: '{inproject}: newuser.keystore'
+  AndroidKeystoreName: C:/Users/marcos.romero/Documents/Proyectos Unity/BelenAR/newuser.keystore
   AndroidKeyaliasName: mitica
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
